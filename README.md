@@ -8,7 +8,7 @@ Imagine que você trabalha para uma empresa de táxi e que uma das maiores recla
 
 Você decide fazer algo a respeito criando um aplicativo móvel que os clientes possam usar quando entrarem em um táxi para estimar qual será a tarifa.Para fornecer inteligência ao aplicativo, você pretende usar as enormes quantidades de dados de tarifas que a empresa coletou ao longo dos anos para criar um modelo de aprendizado de máquina.
 
-O conjunto de dados contém cerca de 150000 linhas e é um subconjunto de um conjunto de dados muito maior usado na competição New York City Taxi Fare Prediction da Kaggle.
+O conjunto de dados contém 150000 linhas e é um subconjunto de um conjunto de dados muito maior usado na competição [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) da Kaggle.
 
 ## O modelo de árvore de decisão mais simple é escolhido como o modelo final para este projeto
 
