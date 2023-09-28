@@ -17,3 +17,5 @@ Com base na hora do dia, dia da semana e a distância percorrida fornecidos, o m
 O modelo está errando mais ou menos 3.03 dólares (RMSE) e 1.95 dólares em termos absolutos (MAE). A variável mais importante para prever a tarifa foi a distância.
 
 Podemos explorar outros algoritmos de aprendizado, como Random Forest e Gradient Boosting, para melhorar a previsão do modelo.
+
+A documentação do projeto se encontra [aqui](https://medium.com/@omarca2015c/previsão-de-tarifas-em-corridas-de-táxi-911506cc1117).
